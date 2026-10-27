@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Cephas Brunno👋
 
-<!--
-**cephasbrunno17/cephasbrunno17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Support Engineer with 5 years of experience in production
+environments, transitioning to **DevOps / SRE**.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- 90-day hands-on roadmap: Linux, Docker, CI/CD, Terraform, Kubernetes, observability
+- Building a Python API that consumes an LLM, deployed with full DevOps practices
+- Documenting everything in [devops-journey](link-do-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Cloud:** AWS, GCP
+**Containers:** Docker, Kubernetes (learning in depth)
+**Languages:** Python, Node.js, Bash
+**Data:** MySQL, PostgreSQL
+**Observability:** Kibana, GCP Logs Explorer → Prometheus, Grafana, Datadog (in progress)
+
+## Background
+Handled production incidents, log analysis and escalation for 5 years.
+I bring that on-call mindset into reliability engineering.
+
+## Contact
+[LinkedIn]([(https://www.linkedin.com/in/cephasbrunno/)]) 
